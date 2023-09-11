@@ -1,23 +1,5 @@
 # Relational and Non-Relational Database Query and PL/SQL
 
-## Task 1: Relational Database Design (SQL)
-
-**Description:** Task 1 required the design of a relational database to manage a specific dataset. Below are the key aspects of this task:
-
-- **Database Schema:** I created a well-structured database schema to represent the data entities and their relationships. The schema included tables for various data types, such as users, products, orders, etc.
-
-- **SQL Queries:** To interact with the relational database, I wrote a series of SQL queries. These queries included:
-  - **Data Retrieval:** I wrote SELECT statements to retrieve specific data from the database based on various criteria. For example, querying customer information or product inventory levels.
-  - **Data Modification:** I used UPDATE and INSERT statements to modify and add new records to the database, ensuring data accuracy.
-  - **Transactions:** Transactions were implemented using BEGIN, COMMIT, and ROLLBACK statements to ensure data integrity during complex operations.
-  
-- **Normalization:** To optimize the database structure, I applied normalization techniques to reduce data redundancy and improve overall data integrity.
-
-**Skills Demonstrated:**
-- Database schema design
-- SQL query writing and optimization
-- Database normalization
-- Transaction management
 
 ## Task 2: MongoDB Implementation
 
